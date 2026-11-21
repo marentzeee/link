@@ -21,6 +21,12 @@ const settings = {
     // DRUŠTVENE MREŽE
     links: [
 
+               {
+            name: "LIVEEEE SMOOO",
+            icon: "▶",
+            url: "https://www.youtube.com/watch?v=ck4k1sMHmck"
+        },
+       
         {
             name: "YouTube",
             icon: "▶",
