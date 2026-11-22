@@ -22,9 +22,9 @@ const settings = {
     links: [
 
                {
-            name: "Poslednji lajv",
-            icon: "▶",
-            url: "https://www.youtube.com/watch?v=ck4k1sMHmck"
+            name: "LAJV SMOO",
+            icon: "🔥",
+            url: "https://www.youtube.com/live/mFGLe-7-l7c?si=nPvkJZiI7zsw4ODU"
         },
        
         {
