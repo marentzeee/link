@@ -13,7 +13,7 @@ const settings = {
     email: "markozivkovic.yt@gmail.com",
 
     // Najnoviji YouTube video
-    latestVideo: "https://www.youtube.com/watch?v=MVuOOcCWkIU",
+    latestVideo: "https://www.youtube.com/watch?v=pLj6_7YNCQs",
 
     // Slika najnovijeg videa
     videoThumbnail: "thumbnail.jpg",
