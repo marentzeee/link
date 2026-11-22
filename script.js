@@ -22,7 +22,7 @@ const settings = {
     links: [
 
                {
-            name: "LIVEEEE SMOOO",
+            name: "Poslednji lajv",
             icon: "▶",
             url: "https://www.youtube.com/watch?v=ck4k1sMHmck"
         },
