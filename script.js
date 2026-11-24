@@ -22,9 +22,9 @@ const settings = {
     links: [
 
                {
-            name: "LAJV SMOO",
+            name: "LAJV SMOO NA TIK TOK-u",
             icon: "🔥",
-            url: "https://www.youtube.com/live/mFGLe-7-l7c?si=nPvkJZiI7zsw4ODU"
+            url: "https://vt.tiktok.com/ZS9PHtC3xYKJw-MZ2qJ/"
         },
        
         {
